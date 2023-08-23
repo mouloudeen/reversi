@@ -23,13 +23,13 @@ static size_t size_board = 8;
 static size_t black_ai = 0;
 static size_t white_ai = 0;
 
-struct option long_opts[] = {{"black-ai", optional_argument, NULL, 'b'},
+struct option long_opts[] = {{"black-ai", required_argument, NULL, 'b'},
                              {"contest", no_argument, NULL, 'c'},
                              {"help", no_argument, NULL, 'h'},
                              {"size", required_argument, NULL, 's'},
                              {"verbose", no_argument, NULL, 'v'},
                              {"version", no_argument, NULL, 'V'},
-                             {"white-ai", optional_argument, NULL, 'w'},
+                             {"white-ai", required_argument, NULL, 'w'},
                              {NULL, 0, NULL, 0}};
 
 /* function display help */
@@ -389,7 +389,7 @@ static int game(move_t (*black)(board_t *), move_t (*white)(board_t *),
 
 int main(int argc, char *argv[]) {
 
-  while ((optc = getopt_long(argc, argv, "b::chs:vVw::", long_opts, NULL)) !=
+  while ((optc = getopt_long(argc, argv, "b:chs:vVw:", long_opts, NULL)) !=
          -1)
     switch (optc) {
     case 'b': /* option  black player */
