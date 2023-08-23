@@ -19,5 +19,12 @@ then do:
         -h, --help		display this help and exit
     Tactic list: human (0), random (1) 
     
-    
-  
+## Example with the 5 sizes
+
+We can see the examples :
+        
+        test_reversi_s_1_w_1_b_1.txt -> -s 1 -w 1 -b 1 
+        test_reversi_s_2_w_1_b_1.txt -> -s 2 -w 1 -b 1
+        test_reversi_s_3_w_1_b_1.txt -> -s 3 -w 1 -b 1
+        test_reversi_s_4_w_1_b_1.txt -> -s 4 -w 1 -b 1
+        test_reversi_s_5_w_1_b_1.txt -> -s 5 -w 1 -b 1
