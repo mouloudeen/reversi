@@ -30,6 +30,9 @@
 *.exe
 *.out
 *.app
+reversi
+src/reversi
+test/board_tests
 
 #ide
 *.cbp
