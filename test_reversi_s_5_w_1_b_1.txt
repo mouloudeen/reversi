@@ -1,0 +1,2154 @@
+Welcome to this reversi game!
+Black player (X) is random and white player (O) is random.
+Black player start!
+
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ _ * _ _ _ _ _ 
+ 5 _ _ _ * O X _ _ _ _ 
+ 6 _ _ _ _ X O * _ _ _ 
+ 7 _ _ _ _ _ * _ _ _ _ 
+ 8 _ _ _ _ _ _ _ _ _ _ 
+ 9 _ _ _ _ _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 2, 'O' = 2
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ _ _ _ _ _ _ _ 
+ 5 _ _ _ _ O X * _ _ _ 
+ 6 _ _ _ _ X X _ _ _ _ 
+ 7 _ _ _ _ * X * _ _ _ 
+ 8 _ _ _ _ _ _ _ _ _ _ 
+ 9 _ _ _ _ _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 4, 'O' = 1
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ _ * _ _ _ _ _ 
+ 5 _ _ _ * O X _ _ _ _ 
+ 6 _ _ _ _ X O * _ _ _ 
+ 7 _ _ _ _ _ X O * _ _ 
+ 8 _ _ _ _ _ _ _ _ _ _ 
+ 9 _ _ _ _ _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 3, 'O' = 3
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ * _ * _ _ _ _ 
+ 5 _ _ _ X X X _ _ _ _ 
+ 6 _ _ _ * X O _ _ _ _ 
+ 7 _ _ _ _ * X O _ _ _ 
+ 8 _ _ _ _ _ * _ _ _ _ 
+ 9 _ _ _ _ _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 5, 'O' = 2
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ _ _ _ _ _ _ _ 
+ 5 _ _ _ X X X _ _ _ _ 
+ 6 _ _ _ O O O _ _ _ _ 
+ 7 _ _ * * * X O * _ _ 
+ 8 _ _ _ _ _ _ _ * _ _ 
+ 9 _ _ _ _ _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 4, 'O' = 4
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ * _ * _ _ _ _ 
+ 5 _ _ _ X X X _ _ _ _ 
+ 6 _ _ * X X O _ _ _ _ 
+ 7 _ _ _ X * X O _ _ _ 
+ 8 _ _ _ _ _ * _ _ _ _ 
+ 9 _ _ _ _ _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 7, 'O' = 2
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ _ _ _ _ _ _ _ 
+ 5 _ _ _ X X X _ _ _ _ 
+ 6 _ _ _ X X O * _ _ _ 
+ 7 _ _ _ X O O O * _ _ 
+ 8 _ _ _ _ * * * * _ _ 
+ 9 _ _ _ _ _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 6, 'O' = 4
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ * * _ * _ _ _ _ 
+ 5 _ _ _ X X X _ _ _ _ 
+ 6 _ _ * X X O _ _ _ _ 
+ 7 _ _ * X X O O _ _ _ 
+ 8 _ _ _ * X _ _ _ _ _ 
+ 9 _ _ _ * _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 8, 'O' = 3
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ _ _ _ _ _ _ _ 
+ 5 _ _ _ X X X _ _ _ _ 
+ 6 _ _ _ X X O * _ _ _ 
+ 7 _ _ _ X O O O * _ _ 
+ 8 _ _ * O X * * * _ _ 
+ 9 _ _ _ * _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 7, 'O' = 5
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ * * * _ _ _ _ 
+ 5 _ _ * X X X _ _ _ _ 
+ 6 _ _ * X X O _ _ _ _ 
+ 7 _ _ * X O X O _ _ _ 
+ 8 _ _ _ O X * X _ _ _ 
+ 9 _ _ _ _ * _ * _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 9, 'O' = 4
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ _ _ _ _ 
+ 4 _ _ _ * * * _ _ _ _ 
+ 5 _ _ * X X X _ _ _ _ 
+ 6 _ _ * X X O _ _ _ _ 
+ 7 _ _ * X O X O _ _ _ 
+ 8 _ _ _ O X * X _ _ _ 
+ 9 _ _ _ _ * _ * _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 9, 'O' = 4
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ * * _ _ _ 
+ 4 _ _ _ _ _ O * _ _ _ 
+ 5 _ _ _ X X O * _ _ _ 
+ 6 _ _ _ X X O * _ _ _ 
+ 7 _ _ _ X O X O * _ _ 
+ 8 _ _ * O X * X * _ _ 
+ 9 _ _ _ * _ _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 8, 'O' = 6
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ _ _ * * X _ _ _ _ 
+ 5 _ _ * X X O _ _ _ _ 
+ 6 _ _ * X X O _ _ _ _ 
+ 7 _ _ * X O X O _ _ _ 
+ 8 _ _ * O X * X _ _ _ 
+ 9 _ _ _ _ * _ * _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 10, 'O' = 5
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ X _ _ _ 
+ 4 _ _ _ _ _ X * _ _ _ 
+ 5 _ _ _ X X O * _ _ _ 
+ 6 _ _ _ X X O * _ _ _ 
+ 7 _ _ _ X O X O * _ _ 
+ 8 _ _ _ O O * X * _ _ 
+ 9 _ _ _ * O * _ _ _ _ 
+10 _ _ _ _ * _ _ _ _ _ 
+
+Score: 'X' = 9, 'O' = 7
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ X _ _ _ 
+ 4 _ _ _ _ _ X * _ _ _ 
+ 5 _ _ _ X X O * _ _ _ 
+ 6 _ _ _ X X O * _ _ _ 
+ 7 _ _ _ X O X O * _ _ 
+ 8 _ _ _ O O * X * _ _ 
+ 9 _ _ _ * O * _ _ _ _ 
+10 _ _ _ _ * _ _ _ _ _ 
+
+Score: 'X' = 9, 'O' = 7
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ _ _ * * X _ _ _ _ 
+ 5 _ _ * X X O * * _ _ 
+ 6 _ _ * X X X X _ _ _ 
+ 7 _ _ * X O X X * _ _ 
+ 8 _ _ * O O * X _ _ _ 
+ 9 _ _ _ _ O _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 12, 'O' = 5
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ _ _ * * X _ _ _ _ 
+ 5 _ _ * X X O * * _ _ 
+ 6 _ _ * X X X X _ _ _ 
+ 7 _ _ * X O X X * _ _ 
+ 8 _ _ * O O * X _ _ _ 
+ 9 _ _ _ _ O _ _ _ _ _ 
+10 _ _ _ _ _ _ _ _ _ _ 
+
+Score: 'X' = 12, 'O' = 5
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ X _ _ _ 
+ 4 _ _ * * * X * _ _ _ 
+ 5 _ _ O O O O _ _ _ _ 
+ 6 _ _ * O X X X _ _ _ 
+ 7 _ _ * X O X X _ _ _ 
+ 8 _ _ _ O O _ X _ _ _ 
+ 9 _ _ * * O * _ _ _ _ 
+10 _ _ _ _ * _ _ _ _ _ 
+
+Score: 'X' = 9, 'O' = 9
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ _ _ _ _ X _ _ _ _ 
+ 5 _ _ O O O O * _ _ _ 
+ 6 _ _ _ O X X X * _ _ 
+ 7 _ _ _ X X X X * _ _ 
+ 8 _ _ * O X * X * _ _ 
+ 9 _ _ _ _ X _ _ * _ _ 
+10 _ _ _ _ X * _ _ _ _ 
+
+Score: 'X' = 13, 'O' = 6
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ _ _ _ _ X _ _ _ _ 
+ 5 _ _ O O O O * _ _ _ 
+ 6 _ _ _ O X X X * _ _ 
+ 7 _ _ _ X X X X * _ _ 
+ 8 _ _ * O X * X * _ _ 
+ 9 _ _ _ _ X _ _ * _ _ 
+10 _ _ _ _ X * _ _ _ _ 
+
+Score: 'X' = 13, 'O' = 6
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ X _ _ _ 
+ 4 _ _ * * * X * _ _ _ 
+ 5 _ _ O O O O _ _ _ _ 
+ 6 _ _ * O X O X _ _ _ 
+ 7 _ _ * X O O X _ _ _ 
+ 8 _ _ * O O O X _ _ _ 
+ 9 _ _ _ * X * _ _ _ _ 
+10 _ _ _ _ X _ _ _ _ _ 
+
+Score: 'X' = 9, 'O' = 11
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ _ _ _ X _ _ _ 
+ 4 _ _ _ _ _ X _ _ _ _ 
+ 5 _ _ O O O X * _ _ _ 
+ 6 _ _ _ O X X X * _ _ 
+ 7 _ _ * X O X X * _ _ 
+ 8 _ _ _ O X X X * _ _ 
+ 9 _ _ _ _ X X * * _ _ 
+10 _ _ _ _ X * _ _ _ _ 
+
+Score: 'X' = 15, 'O' = 6
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ X _ _ _ 
+ 4 _ * * * * X _ _ _ _ 
+ 5 _ * O O O X _ _ _ _ 
+ 6 _ _ * O X X X _ _ _ 
+ 7 _ _ * X O X X _ _ _ 
+ 8 _ _ * O X X X _ _ _ 
+ 9 _ _ * * O X _ _ _ _ 
+10 _ _ _ * X O * _ _ _ 
+
+Score: 'X' = 14, 'O' = 8
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ X _ _ _ 
+ 4 _ * * * * X _ _ _ _ 
+ 5 _ * O O O X _ _ _ _ 
+ 6 _ _ * O X X X _ _ _ 
+ 7 _ _ * X O X X _ _ _ 
+ 8 _ _ * O X X X _ _ _ 
+ 9 _ _ * * O X _ _ _ _ 
+10 _ _ _ * X O * _ _ _ 
+
+Score: 'X' = 14, 'O' = 8
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ _ _ _ * X _ _ _ _ 
+ 5 _ _ O O X X * _ _ _ 
+ 6 _ * _ X X X X * _ _ 
+ 7 _ * X X O X X * _ _ 
+ 8 _ _ _ O X X X * _ _ 
+ 9 _ _ _ _ O X * * _ _ 
+10 _ _ _ * X O _ _ _ _ 
+
+Score: 'X' = 17, 'O' = 6
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ _ _ _ * X _ _ _ _ 
+ 5 _ _ O O X X * _ _ _ 
+ 6 _ * _ X X X X * _ _ 
+ 7 _ * X X O X X * _ _ 
+ 8 _ _ _ O X X X * _ _ 
+ 9 _ _ _ _ O X * * _ _ 
+10 _ _ _ * X O _ _ _ _ 
+
+Score: 'X' = 17, 'O' = 6
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ X _ _ _ 
+ 4 _ * * * _ X _ _ _ _ 
+ 5 _ * O O X X _ _ _ _ 
+ 6 _ _ _ X X X X * * _ 
+ 7 _ _ X X O O O O * _ 
+ 8 _ _ * O X X X * * _ 
+ 9 _ _ * * O X _ _ _ _ 
+10 _ _ _ * X O * _ _ _ 
+
+Score: 'X' = 15, 'O' = 9
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ _ _ * * X _ _ _ _ 
+ 5 _ _ O O X X * * _ _ 
+ 6 _ * _ X X X X _ _ _ 
+ 7 _ * X X O O O X * _ 
+ 8 _ _ _ O X X X * X _ 
+ 9 _ _ _ * O X * * _ _ 
+10 _ _ _ * X O _ _ _ _ 
+
+Score: 'X' = 17, 'O' = 8
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ _ _ * * X _ _ _ _ 
+ 5 _ _ O O X X * * _ _ 
+ 6 _ * _ X X X X _ _ _ 
+ 7 _ * X X O O O X * _ 
+ 8 _ _ _ O X X X * X _ 
+ 9 _ _ _ * O X * * _ _ 
+10 _ _ _ * X O _ _ _ _ 
+
+Score: 'X' = 17, 'O' = 8
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ _ X _ _ _ 
+ 4 _ * * * _ X _ _ * _ 
+ 5 _ * O O X X * O _ _ 
+ 6 _ _ _ X X X O * _ _ 
+ 7 _ _ X X O O O X _ _ 
+ 8 _ _ * O X X X * X _ 
+ 9 _ _ * * O X _ _ _ _ 
+10 _ _ _ * X O * _ _ _ 
+
+Score: 'X' = 16, 'O' = 10
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ * * * * X _ _ _ _ 
+ 5 _ X X X X X * O _ _ 
+ 6 _ * * X X X O _ _ _ 
+ 7 _ * X X O O O X * _ 
+ 8 _ _ _ O X X X * X _ 
+ 9 _ _ _ * O X * * _ * 
+10 _ _ _ * X O _ _ _ _ 
+
+Score: 'X' = 19, 'O' = 8
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 * * _ _ _ _ X _ _ _ 
+ 4 _ O _ _ _ X _ _ * _ 
+ 5 _ X O X X X * O _ _ 
+ 6 _ _ * O X X O * _ _ 
+ 7 _ _ X X O O O X _ _ 
+ 8 _ _ * O X X X * X _ 
+ 9 _ _ * * O X _ _ _ _ 
+10 _ _ _ * X O * _ _ _ 
+
+Score: 'X' = 17, 'O' = 11
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ O * * * X _ _ _ _ 
+ 5 * X O X X X * O _ _ 
+ 6 _ * _ O X X O _ _ _ 
+ 7 _ * X X X O O X * _ 
+ 8 _ * _ X X X X _ X _ 
+ 9 _ _ X * O X * * _ * 
+10 _ _ _ * X O _ _ _ _ 
+
+Score: 'X' = 20, 'O' = 9
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ O * * * X _ _ _ _ 
+ 5 * X O X X X * O _ _ 
+ 6 _ * _ O X X O _ _ _ 
+ 7 _ * X X X O O X * _ 
+ 8 _ * _ X X X X _ X _ 
+ 9 _ _ X * O X * * _ * 
+10 _ _ _ * X O _ _ _ _ 
+
+Score: 'X' = 20, 'O' = 9
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 * * _ _ _ _ X _ _ _ 
+ 4 _ O _ _ _ X _ _ * _ 
+ 5 _ X O X X X * O _ _ 
+ 6 _ _ * O X X O * * _ 
+ 7 _ _ X X X O O O * _ 
+ 8 _ _ _ X X X X * O _ 
+ 9 _ _ X * O X _ _ _ O 
+10 _ _ _ * X O * _ _ _ 
+
+Score: 'X' = 18, 'O' = 12
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ O * * * X _ _ _ _ 
+ 5 * X O X X X * O _ _ 
+ 6 _ * _ O X X O _ _ _ 
+ 7 _ * X X X O O O _ _ 
+ 8 _ * _ X X X X _ O _ 
+ 9 _ _ X X X X * * _ O 
+10 _ _ * * X O _ _ _ _ 
+
+Score: 'X' = 20, 'O' = 11
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 * * _ _ * * X _ _ _ 
+ 4 _ O _ * O X * _ * _ 
+ 5 _ X O X X O * O _ _ 
+ 6 _ _ * O X X O * * _ 
+ 7 _ _ X X X O O O * _ 
+ 8 _ _ _ X X X X * O _ 
+ 9 _ _ X X X X _ _ _ O 
+10 _ _ _ _ X O * _ _ _ 
+
+Score: 'X' = 19, 'O' = 13
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ O * * O X * _ _ _ 
+ 5 * X O X X O _ O _ _ 
+ 6 _ * * O X X O _ _ _ 
+ 7 _ * X X X O X O _ _ 
+ 8 _ * * X X X X X O _ 
+ 9 _ _ X X X X * * _ O 
+10 _ _ * * X O _ _ _ _ 
+
+Score: 'X' = 21, 'O' = 12
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ _ _ * X _ _ _ 
+ 4 _ O * * O X * _ _ _ 
+ 5 * X O X X O _ O _ _ 
+ 6 _ * * O X X O _ _ _ 
+ 7 _ * X X X O X O _ _ 
+ 8 _ * * X X X X X O _ 
+ 9 _ _ X X X X * * _ O 
+10 _ _ * * X O _ _ _ _ 
+
+Score: 'X' = 21, 'O' = 12
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 * * _ _ * * X _ _ _ 
+ 4 _ O _ * O X * _ * _ 
+ 5 _ X O X X O * O _ _ 
+ 6 _ * * O X X O * * _ 
+ 7 * * O X X O X O * _ 
+ 8 _ O _ X X X X X O * 
+ 9 * _ X X X X _ _ _ O 
+10 _ _ _ _ X O * _ _ _ 
+
+Score: 'X' = 20, 'O' = 14
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 * * _ _ * * X _ _ _ 
+ 4 _ O _ * O X * _ * _ 
+ 5 _ X O X X O * O _ _ 
+ 6 _ * * O X X O * * _ 
+ 7 * * O X X O X O * _ 
+ 8 _ O _ X X X X X O * 
+ 9 * _ X X X X _ _ _ O 
+10 _ _ _ _ X O * _ _ _ 
+
+Score: 'X' = 20, 'O' = 14
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ * * * X _ _ _ 
+ 4 _ O * X X X _ _ _ _ 
+ 5 * X O X X O _ O _ _ 
+ 6 _ * _ O X X O _ _ _ 
+ 7 _ _ O X X O X O _ _ 
+ 8 _ O * X X X X X O _ 
+ 9 _ _ X X X X * * _ O 
+10 _ _ * * X O _ _ _ _ 
+
+Score: 'X' = 22, 'O' = 13
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 * * _ _ _ _ X _ _ _ 
+ 4 _ O _ X X X * _ * _ 
+ 5 _ X O X X O * O _ _ 
+ 6 _ * * O X X O * * _ 
+ 7 * * O X X O X O * _ 
+ 8 _ O _ X X X O O O * 
+ 9 * _ X X X X * O * O 
+10 _ _ _ _ X O * _ * _ 
+
+Score: 'X' = 20, 'O' = 16
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 * * _ _ _ _ X _ _ _ 
+ 4 _ O _ X X X * _ * _ 
+ 5 _ X O X X O * O _ _ 
+ 6 _ * * O X X O * * _ 
+ 7 * * O X X O X O * _ 
+ 8 _ O _ X X X O O O * 
+ 9 * _ X X X X * O * O 
+10 _ _ _ _ X O * _ * _ 
+
+Score: 'X' = 20, 'O' = 16
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ * * * * X _ _ _ 
+ 4 _ O * X X X _ _ X _ 
+ 5 * X O X X O * X _ _ 
+ 6 _ * _ O X X X * _ _ 
+ 7 _ _ O X X X X O _ _ 
+ 8 _ O * X X X O O O _ 
+ 9 _ _ X X X X * O _ O 
+10 _ _ _ * X O _ _ _ _ 
+
+Score: 'X' = 24, 'O' = 13
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 * * _ * _ _ X _ _ _ 
+ 4 * O O X X X * _ X _ 
+ 5 _ X O O X O * X _ _ 
+ 6 _ * * O O X X _ * _ 
+ 7 * * O X X O X O * _ 
+ 8 _ O _ X X X O O O * 
+ 9 * _ X X X X * O * O 
+10 _ _ _ _ X O * _ _ _ 
+
+Score: 'X' = 21, 'O' = 17
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ * * * * X _ _ * 
+ 4 _ O O X X X * _ X _ 
+ 5 * X O O X O _ X _ _ 
+ 6 * * _ O O X X * _ _ 
+ 7 _ _ O X X O X O _ _ 
+ 8 _ O * X X X X O O _ 
+ 9 _ * X X X X X O _ O 
+10 _ _ * * X O _ * _ _ 
+
+Score: 'X' = 23, 'O' = 16
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ * * * * X _ _ * 
+ 4 _ O O X X X * _ X _ 
+ 5 * X O O X O _ X _ _ 
+ 6 * * _ O O X X * _ _ 
+ 7 _ _ O X X O X O _ _ 
+ 8 _ O * X X X X O O _ 
+ 9 _ * X X X X X O _ O 
+10 _ _ * * X O _ * _ _ 
+
+Score: 'X' = 23, 'O' = 16
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ * _ * _ _ X _ _ _ 
+ 4 * O O X X X * _ X _ 
+ 5 _ X O O X O * X _ _ 
+ 6 _ * * O O X X _ * _ 
+ 7 * * O X O O X O * _ 
+ 8 _ O _ X X O X O O * 
+ 9 * _ X X X X O O * O 
+10 _ _ _ _ X O * O * _ 
+
+Score: 'X' = 20, 'O' = 20
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ * _ * _ _ X _ _ _ 
+ 4 * O O X X X * _ X _ 
+ 5 _ X O O X O * X _ _ 
+ 6 _ * * O O X X _ * _ 
+ 7 * * O X O O X O * _ 
+ 8 _ O _ X X O X O O * 
+ 9 * _ X X X X O O * O 
+10 _ _ _ _ X O * O * _ 
+
+Score: 'X' = 20, 'O' = 20
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ * * * * X _ _ * 
+ 4 _ O O X X X * _ X _ 
+ 5 * X O O X O * X _ _ 
+ 6 * * _ O O X X * _ _ 
+ 7 _ _ O X O O X O _ _ 
+ 8 _ O * X X O X O O _ 
+ 9 _ * X X X X O X * O 
+10 _ * * * X O * O X * 
+
+Score: 'X' = 22, 'O' = 19
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ * _ * _ _ X _ _ _ 
+ 4 * O O X X X * _ X _ 
+ 5 _ X O O X O * X _ _ 
+ 6 _ * * O O X X _ * _ 
+ 7 * * O X O O X O * _ 
+ 8 _ O _ X X O X O O * 
+ 9 * _ X X X X O O * O 
+10 _ _ _ _ X O O O X _ 
+
+Score: 'X' = 21, 'O' = 21
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ * _ * _ _ X _ _ _ 
+ 4 * O O X X X * _ X _ 
+ 5 _ X O O X O * X _ _ 
+ 6 _ * * O O X X _ * _ 
+ 7 * * O X O O X O * _ 
+ 8 _ O _ X X O X O O * 
+ 9 * _ X X X X O O * O 
+10 _ _ _ _ X O O O X _ 
+
+Score: 'X' = 21, 'O' = 21
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ * * * * X _ _ * 
+ 4 _ O O X X X * _ X _ 
+ 5 * X O O X O * X _ _ 
+ 6 * * * O O X X * * * 
+ 7 _ _ O X O O X X X * 
+ 8 _ O * X X O X O O _ 
+ 9 _ * X X X X O O _ O 
+10 _ * * * X O O O X * 
+
+Score: 'X' = 23, 'O' = 20
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ * _ _ _ _ X _ _ _ 
+ 4 * O O X X X * _ X _ 
+ 5 * O O O X O * X _ _ 
+ 6 _ O * O O X X _ _ _ 
+ 7 * * O X O O X X X _ 
+ 8 _ O _ X X O X O O * 
+ 9 * _ X X X X O O * O 
+10 _ _ _ _ X O O O X _ 
+
+Score: 'X' = 22, 'O' = 22
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ * _ _ 
+ 3 _ _ _ * * * X _ _ * 
+ 4 _ O O X X X * _ X _ 
+ 5 _ O O O X O * X _ _ 
+ 6 _ O * O O X X * _ * 
+ 7 _ _ O X O O X X X * 
+ 8 _ O * X X O X X X X 
+ 9 _ * X X X X O O _ O 
+10 _ * * * X O O O X * 
+
+Score: 'X' = 25, 'O' = 20
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ * * * * * X * _ _ 
+ 4 _ O O O O O O _ X _ 
+ 5 * O O O X O * X _ _ 
+ 6 _ O * O O X X _ _ _ 
+ 7 * * O X O O X X X _ 
+ 8 _ O _ X X O X X X X 
+ 9 * _ X X X X O O * O 
+10 _ _ _ _ X O O O X * 
+
+Score: 'X' = 22, 'O' = 24
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ * * * * * _ _ 
+ 3 _ _ _ * X * X _ _ * 
+ 4 _ O O O X O O _ X _ 
+ 5 _ O O O X O * X _ _ 
+ 6 _ O * O O X X * * * 
+ 7 _ _ O X O O X X X * 
+ 8 _ O * X X O X X X X 
+ 9 _ * X X X X O O * O 
+10 _ * * * X O O O X * 
+
+Score: 'X' = 24, 'O' = 23
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ * * * X * X * _ _ 
+ 4 * O O O X O O * X _ 
+ 5 * O O O X O * X * _ 
+ 6 _ O * O O O O O * _ 
+ 7 * * O X O O O O X _ 
+ 8 _ O _ X X O X O X X 
+ 9 * _ X X X X O O * O 
+10 _ _ _ _ X O O O X * 
+
+Score: 'X' = 19, 'O' = 29
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ * * * * * _ _ 
+ 3 _ _ _ * X * X _ _ * 
+ 4 _ O O O X O O * X _ 
+ 5 _ O O O X O _ X _ _ 
+ 6 _ O * O O O O O * * 
+ 7 _ _ O X O O O O X * 
+ 8 _ O * X X O X O X X 
+ 9 _ * X X X X O O _ X 
+10 _ * * * X O O O X X 
+
+Score: 'X' = 21, 'O' = 28
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ * * _ X * X _ _ _ 
+ 4 * O O O X O O * X _ 
+ 5 * O O O X O * X _ _ 
+ 6 _ O * O O O O O * _ 
+ 7 * * O O O O O O X _ 
+ 8 _ O * O X O X O X X 
+ 9 * * O O O X O O * X 
+10 _ _ * O O O O O X X 
+
+Score: 'X' = 15, 'O' = 35
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 _ * * _ X * X _ _ _ 
+ 4 * O O O X O O * X _ 
+ 5 * O O O X O * X _ _ 
+ 6 _ O * O O O O O * _ 
+ 7 * * O O O O O O X _ 
+ 8 _ O * O X O X O X X 
+ 9 * * O O O X O O * X 
+10 _ _ * O O O O O X X 
+
+Score: 'X' = 15, 'O' = 35
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ * * * * * _ _ 
+ 3 _ _ _ * X * X _ _ * 
+ 4 _ O O O X O O * X _ 
+ 5 _ O O O X O _ X _ _ 
+ 6 _ O * O O O O O * * 
+ 7 _ X X X X X X X X * 
+ 8 _ O * O X O X O X X 
+ 9 _ _ O O O X O O _ X 
+10 _ _ _ O O O O O X X 
+
+Score: 'X' = 22, 'O' = 29
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ _ _ _ _ _ _ 
+ 3 * * * * X * X * _ _ 
+ 4 * O O O X O O * X _ 
+ 5 * O O O X O * X * _ 
+ 6 _ O * O O O O O _ * 
+ 7 * X X X X X X X X O 
+ 8 _ O * O X O X O O X 
+ 9 * * O O O X O O * X 
+10 _ * * O O O O O X X 
+
+Score: 'X' = 21, 'O' = 31
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ * * * * * _ _ 
+ 3 _ _ _ * X * X _ _ * 
+ 4 _ O O O X O O * X _ 
+ 5 _ O O O X O _ X _ _ 
+ 6 _ O * O O O O O * * 
+ 7 * X X X X X X X X O 
+ 8 _ O * X X O X O O X 
+ 9 _ * X O O X O O _ X 
+10 _ X _ O O O O O X X 
+
+Score: 'X' = 24, 'O' = 29
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ * * _ _ _ _ _ _ 
+ 3 * * * O X * X * _ _ 
+ 4 _ O O O O O O _ X _ 
+ 5 * O O O X O * X * _ 
+ 6 _ O _ O O O O O _ * 
+ 7 * X X X X X X X X O 
+ 8 _ O _ X X O X O O X 
+ 9 * * X O O X O O * X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 23, 'O' = 31
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ * * * * * _ _ 
+ 3 _ _ _ O X * X _ _ * 
+ 4 _ O O O O O O * X * 
+ 5 _ O O O X O _ X X _ 
+ 6 _ O * O O O O X * * 
+ 7 * X X X X X X X X O 
+ 8 _ O * X X O X O O X 
+ 9 _ * X O O X O O _ X 
+10 _ X _ O O O O O X X 
+
+Score: 'X' = 25, 'O' = 30
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ * * * * * _ _ 
+ 3 _ _ _ O X * X _ _ * 
+ 4 _ O O O O O O * X * 
+ 5 _ O O O X O _ X X _ 
+ 6 _ O * O O O O X * * 
+ 7 * X X X X X X X X O 
+ 8 _ O * X X O X O O X 
+ 9 _ * X O O X O O _ X 
+10 _ X _ O O O O O X X 
+
+Score: 'X' = 25, 'O' = 30
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ * * _ _ _ O _ _ 
+ 3 * * * O X * O * _ _ 
+ 4 _ O O O O O O _ X _ 
+ 5 * O O O X O * X X _ 
+ 6 _ O * O O O O X _ * 
+ 7 * X X X X X X X X O 
+ 8 _ O _ X X O X O O X 
+ 9 * * X O O X O O * X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 24, 'O' = 32
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ * * * O _ _ 
+ 3 _ _ _ O X X O * _ * 
+ 4 _ O O O O X X * X * 
+ 5 _ O O O X X * X X _ 
+ 6 _ O * O O X O X * * 
+ 7 * X X X X X X X X O 
+ 8 _ O * X X O X O O X 
+ 9 _ * X O O X O O _ X 
+10 _ X _ O O O O O X X 
+
+Score: 'X' = 29, 'O' = 28
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ * * * O _ _ 
+ 3 _ _ _ O X X O * _ * 
+ 4 _ O O O O X X * X * 
+ 5 _ O O O X X * X X _ 
+ 6 _ O * O O X O X * * 
+ 7 * X X X X X X X X O 
+ 8 _ O * X X O X O O X 
+ 9 _ * X O O X O O _ X 
+10 _ X _ O O O O O X X 
+
+Score: 'X' = 29, 'O' = 28
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ * * _ _ * O _ _ 
+ 3 * * * O X X O * _ _ 
+ 4 * O O O O X X _ X _ 
+ 5 * O O O X X * X X * 
+ 6 _ O * O O X O X _ O 
+ 7 * X X X X X X X O O 
+ 8 _ O _ X X O X O O X 
+ 9 * * X O O X O O * X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 28, 'O' = 30
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ * * * O _ _ 
+ 3 _ _ _ O X X O * _ * 
+ 4 _ O O O O X X * X * 
+ 5 _ O O O X X * X X _ 
+ 6 _ O * O O X O X * O 
+ 7 * X X X X X X X O O 
+ 8 _ O * X X O X X O X 
+ 9 _ * X O O X X X X X 
+10 _ X _ O O O O O X X 
+
+Score: 'X' = 32, 'O' = 27
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ * * * O _ _ 
+ 3 _ _ _ O X X O * _ * 
+ 4 _ O O O O X X * X * 
+ 5 _ O O O X X * X X _ 
+ 6 _ O * O O X O X * O 
+ 7 * X X X X X X X O O 
+ 8 _ O * X X O X X O X 
+ 9 _ * X O O X X X X X 
+10 _ X _ O O O O O X X 
+
+Score: 'X' = 32, 'O' = 27
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ * * _ _ * O _ _ 
+ 3 * * * O X X O * _ _ 
+ 4 * O O O O X X _ X _ 
+ 5 * O O O X X * X X * 
+ 6 _ O * O O X O X * O 
+ 7 * X X X X X X X O O 
+ 8 _ O _ X X O X X O X 
+ 9 * O O O O X X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 31, 'O' = 29
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ * * _ _ * O _ _ 
+ 3 * * * O X X O * _ _ 
+ 4 * O O O O X X _ X _ 
+ 5 * O O O X X * X X * 
+ 6 _ O * O O X O X * O 
+ 7 * X X X X X X X O O 
+ 8 _ O _ X X O X X O X 
+ 9 * O O O O X X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 31, 'O' = 29
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ * * * O _ _ 
+ 3 _ _ _ O X X O * _ * 
+ 4 _ O O O O X X * X * 
+ 5 _ O O O X X * X X _ 
+ 6 _ O * O O X O X * O 
+ 7 * X X X X X X X O O 
+ 8 _ X * X X O X X O X 
+ 9 X X X X X X X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 37, 'O' = 24
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ * * _ _ * O * _ 
+ 3 * * * O X X O O * _ 
+ 4 * O O O O X O * X _ 
+ 5 * O O O X O * X X * 
+ 6 _ O * O O X O X * O 
+ 7 * X X X X X X X O O 
+ 8 _ X _ X X O X X O X 
+ 9 X X X X X X X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 35, 'O' = 27
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ * * * O _ _ 
+ 3 _ _ _ O X X O O _ * 
+ 4 _ O O X O X O * X * 
+ 5 * O X O X O * X X * 
+ 6 _ X * O O X O X * O 
+ 7 X X X X X X X X O O 
+ 8 _ X * X X O X X O X 
+ 9 X X X X X X X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 39, 'O' = 24
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ * * * O _ _ 
+ 3 _ _ _ O X X O O _ * 
+ 4 _ O O X O X O * X * 
+ 5 * O X O X O * X X * 
+ 6 _ X * O O X O X * O 
+ 7 X X X X X X X X O O 
+ 8 _ X * X X O X X O X 
+ 9 X X X X X X X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 39, 'O' = 24
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ * * * O _ _ 
+ 3 _ _ _ O X X O O _ * 
+ 4 _ O O X O X O * X * 
+ 5 * O X O X O * X X * 
+ 6 _ X * O O X O X * O 
+ 7 X X X X X X X X O O 
+ 8 _ X * X X O X X O X 
+ 9 X X X X X X X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 39, 'O' = 24
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ * * _ _ * O * _ 
+ 3 * * * O X X O O * _ 
+ 4 * O O X O X O * X _ 
+ 5 * O X O X O * X X * 
+ 6 _ X * O O X O X * O 
+ 7 X X X O X X X X O O 
+ 8 _ X O O O O X X O X 
+ 9 X X X O X X X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 35, 'O' = 29
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ _ _ 
+ 2 _ _ _ _ * * _ O _ _ 
+ 3 _ _ _ O X X O O _ * 
+ 4 _ O O X X X O * X * 
+ 5 * O X X X O * X X * 
+ 6 * X X X X X O X * O 
+ 7 X X X X X X X X O O 
+ 8 * X O O X O X X O X 
+ 9 X X X O X X X X X X 
+10 * X * O O O O O X X 
+
+Score: 'X' = 42, 'O' = 23
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ * * _ _ * O * _ 
+ 3 * * * O X X O O * _ 
+ 4 * O O X X X O * X _ 
+ 5 * O X X X O * O X * 
+ 6 _ X X X X X O O O O 
+ 7 X X X X X X X O O O 
+ 8 _ X O O X O O X O X 
+ 9 X X X O X O X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 37, 'O' = 29
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ * * _ _ * O * _ 
+ 3 * * * O X X O O * _ 
+ 4 * O O X X X O * X _ 
+ 5 * O X X X O * O X * 
+ 6 _ X X X X X O O O O 
+ 7 X X X X X X X O O O 
+ 8 _ X O O X O O X O X 
+ 9 X X X O X O X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 37, 'O' = 29
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ * _ _ _ _ _ _ 
+ 2 _ _ * X * * _ O _ _ 
+ 3 _ _ * X X X O O * * 
+ 4 _ O O X X X O * X * 
+ 5 * O X X X O * O X * 
+ 6 * X X X X X O O O O 
+ 7 X X X X X X X O O O 
+ 8 * X O O X O O X O X 
+ 9 X X X O X O X X X X 
+10 * X * O O O O O X X 
+
+Score: 'X' = 39, 'O' = 28
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ _ X _ _ * O * _ 
+ 3 * * * X X X O O * _ 
+ 4 * O O X X X O * X _ 
+ 5 * O X X X O * O X * 
+ 6 * X X X X X O O O O 
+ 7 X X X X X X X O O O 
+ 8 O O O O X O O X O X 
+ 9 X X X O X O X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 38, 'O' = 30
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ * _ _ _ _ _ _ 
+ 2 _ _ * X * * * O _ _ 
+ 3 _ _ * X X X O O * * 
+ 4 * O O X X X O * X * 
+ 5 X X X X X O * O X * 
+ 6 * X X X X X O O O O 
+ 7 X X X X X X X O O O 
+ 8 O O O O X O O X O X 
+ 9 X X X O X O X X X X 
+10 * X * O O O O O X X 
+
+Score: 'X' = 40, 'O' = 29
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ _ X _ _ _ O * _ 
+ 3 * * * X X X O O * O 
+ 4 * O O X X X O * O _ 
+ 5 X X X X X O * O X * 
+ 6 _ X X X X X O O O O 
+ 7 X X X X X X X O O O 
+ 8 O O O O X O O X O X 
+ 9 X X X O X O X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 39, 'O' = 31
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ _ X _ _ _ O * _ 
+ 3 * * * X X X O O * O 
+ 4 * O O X X X O * O _ 
+ 5 X X X X X O * O X * 
+ 6 _ X X X X X O O O O 
+ 7 X X X X X X X O O O 
+ 8 O O O O X O O X O X 
+ 9 X X X O X O X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 39, 'O' = 31
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ _ * _ 
+ 2 _ _ _ X _ _ _ O * _ 
+ 3 * * * X X X O O * O 
+ 4 * O O X X X O * O _ 
+ 5 X X X X X O * O X * 
+ 6 _ X X X X X O O O O 
+ 7 X X X X X X X O O O 
+ 8 O O O O X O O X O X 
+ 9 X X X O X O X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 39, 'O' = 31
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ * _ _ _ * _ * 
+ 2 _ _ * X * * * O X * 
+ 3 _ _ * X X X O X * O 
+ 4 * O O X X X X * O * 
+ 5 X X X X X X * O X * 
+ 6 * X X X X X O O O O 
+ 7 X X X X X X X O O O 
+ 8 O O O O X O O X O X 
+ 9 X X X O X O X X X X 
+10 * X * O O O O O X X 
+
+Score: 'X' = 43, 'O' = 28
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ _ _ _ _ * * _ 
+ 2 _ _ _ X _ _ * O X _ 
+ 3 * * * X X X O X * O 
+ 4 O O O X X X X * O _ 
+ 5 X O X X X X * O X * 
+ 6 * X O X X X O O O O 
+ 7 X X X O X X X O O O 
+ 8 O O O O O O O X O X 
+ 9 X X X O X O X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 39, 'O' = 33
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ * _ _ _ * _ * 
+ 2 _ _ * X * * * O X * 
+ 3 * * X X X X O X * O 
+ 4 O X X X X X X * O * 
+ 5 X O X X X X * O X * 
+ 6 * X O X X X O O O O 
+ 7 X X X O X X X O O O 
+ 8 O O O O O O O X O X 
+ 9 X X X O X O X X X X 
+10 * X * O O O O O X X 
+
+Score: 'X' = 42, 'O' = 31
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ * O * _ _ * * _ 
+ 2 _ _ * O * _ * O X _ 
+ 3 * _ X O X X O X * O 
+ 4 O X X O X X X * O _ 
+ 5 X O X O X X * O X * 
+ 6 * X O O X X O O O O 
+ 7 X X X O X X X O O O 
+ 8 O O O O O O O X O X 
+ 9 X X X O X O X X X X 
+10 _ X * O O O O O X X 
+
+Score: 'X' = 37, 'O' = 37
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ O _ _ _ X * * 
+ 2 _ * * O * * * X X _ 
+ 3 * * X O X X O X * O 
+ 4 O X X O X X X * O * 
+ 5 X O X O X X * O X * 
+ 6 * X O O X X O O O O 
+ 7 X X X O X X X O O O 
+ 8 O O O O O O O X O X 
+ 9 X X X O X O X X X X 
+10 * X * O O O O O X X 
+
+Score: 'X' = 39, 'O' = 36
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ * O * _ _ X _ _ 
+ 2 _ _ * O * _ * X X _ 
+ 3 * _ X O X X O X * O 
+ 4 O X X O X X X * O _ 
+ 5 X O X O X X * O X * 
+ 6 * X O O X X O O O O 
+ 7 X X X O X X X O O O 
+ 8 O O O O O O O X O X 
+ 9 X O O O X O X X X X 
+10 * X O O O O O O X X 
+
+Score: 'X' = 37, 'O' = 39
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ O _ _ _ X * * 
+ 2 _ * * O * * * X X _ 
+ 3 * * X O X X O X * O 
+ 4 O X X O X X X * X * 
+ 5 X O X O X X * O X X 
+ 6 * X O O X X O O O X 
+ 7 X X X O X X X O O X 
+ 8 O O O O O O O X O X 
+ 9 X O O O X O X X X X 
+10 * X O O O O O O X X 
+
+Score: 'X' = 41, 'O' = 36
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ * O * _ _ X _ _ 
+ 2 * _ * O * _ * X X _ 
+ 3 O * X O X X O X _ O 
+ 4 O O X O X X X * X _ 
+ 5 X O O O X X * O X X 
+ 6 * X O O X X O O O X 
+ 7 X X X O X X X O O X 
+ 8 O O O O O O O X O X 
+ 9 X O O O X O X X X X 
+10 * X O O O O O O X X 
+
+Score: 'X' = 39, 'O' = 39
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ O _ _ _ X * _ 
+ 2 _ * * O * * * X X _ 
+ 3 O * X O X X O X * O 
+ 4 O O X O X X X * X * 
+ 5 X O O O X X * O X X 
+ 6 * X O O X X O O O X 
+ 7 X X X X X X X O O X 
+ 8 O O X O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 43, 'O' = 36
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ O _ _ _ X * _ 
+ 2 _ * * O * * * X X _ 
+ 3 O * X O X X O X * O 
+ 4 O O X O X X X * X * 
+ 5 X O O O X X * O X X 
+ 6 * X O O X X O O O X 
+ 7 X X X X X X X O O X 
+ 8 O O X O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 43, 'O' = 36
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ * O * _ _ X O * 
+ 2 * _ * O * _ * O X _ 
+ 3 O * X O X X O X _ O 
+ 4 O O X O X X X * X _ 
+ 5 X O O O X X * O X X 
+ 6 * X O O X X O O O X 
+ 7 X X X X X X X O O X 
+ 8 O O X O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 42, 'O' = 38
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ O _ _ * X O _ 
+ 2 _ * * O * * X X X _ 
+ 3 O * X O X X X X * O 
+ 4 O O X O X X X * X * 
+ 5 X O O O X X * O X X 
+ 6 * X O O X X O O O X 
+ 7 X X X X X X X O O X 
+ 8 O O X O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 45, 'O' = 36
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ O _ _ * X O _ 
+ 2 _ * * O * * X X X _ 
+ 3 O * X O X X X X * O 
+ 4 O O X O X X X * X * 
+ 5 X O O O X X * O X X 
+ 6 * X O O X X O O O X 
+ 7 X X X X X X X O O X 
+ 8 O O X O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 45, 'O' = 36
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 * _ * O * _ _ X O * 
+ 2 * O * O * _ X X X _ 
+ 3 O * O O X X X X _ O 
+ 4 O O X O X X X * X _ 
+ 5 X O O O X X * O X X 
+ 6 * X O O X X O O O X 
+ 7 X X X X X X X O O X 
+ 8 O O X O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 44, 'O' = 38
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ O _ _ * X O _ 
+ 2 _ O _ O * * X X X _ 
+ 3 O * O O X X X X * O 
+ 4 O O X O X X X X X * 
+ 5 X O O O X X * X X X 
+ 6 * X O O X X O X O X 
+ 7 X X X X X X X X O X 
+ 8 O O X O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 48, 'O' = 35
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 * _ * O _ _ _ X O * 
+ 2 * O * O * _ X X X _ 
+ 3 O * O O X X X X _ O 
+ 4 O O X O X X X X X _ 
+ 5 O O O O X X * X X X 
+ 6 O O O O X X O X O X 
+ 7 O O X X X X X X O X 
+ 8 O O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 43, 'O' = 41
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 * _ * O _ _ _ X O * 
+ 2 * O * O * _ X X X _ 
+ 3 O * O O X X X X _ O 
+ 4 O O X O X X X X X _ 
+ 5 O O O O X X * X X X 
+ 6 O O O O X X O X O X 
+ 7 O O X X X X X X O X 
+ 8 O O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 43, 'O' = 41
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ O _ _ * X O * 
+ 2 X O _ O * * X X X _ 
+ 3 X * O O X X X X * O 
+ 4 X O X O X X X X X * 
+ 5 X O O O X X * X X X 
+ 6 X O O O X X O X O X 
+ 7 X O X X X X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 50, 'O' = 35
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 _ _ _ O _ _ * X O * 
+ 2 X O _ O * * X X X _ 
+ 3 X * O O X X X X * O 
+ 4 X O X O X X X X X * 
+ 5 X O O O X X * X X X 
+ 6 X O O O X X O X O X 
+ 7 X O X X X X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 50, 'O' = 35
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 * _ * O * _ O O O _ 
+ 2 X O * O * _ X X X _ 
+ 3 X * O O X X X X _ O 
+ 4 X O X O X X X X X _ 
+ 5 X O O O X X * X X X 
+ 6 X O O O X X O X O X 
+ 7 X O X X X X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 49, 'O' = 37
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 * * X O * _ O O O * 
+ 2 X X _ X * * X X X _ 
+ 3 X * O O X X X X * O 
+ 4 X O X O X X X X X * 
+ 5 X O O O X X * X X X 
+ 6 X O O O X X O X O X 
+ 7 X O X X X X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 52, 'O' = 35
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 * _ X O * _ O O O _ 
+ 2 O X * X * _ X X X _ 
+ 3 X O O O X X X X _ O 
+ 4 X O O O X X X X X _ 
+ 5 X O O O X X * X X X 
+ 6 X O O O X X O X O X 
+ 7 X O X X X X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 50, 'O' = 38
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 * _ X O * _ O O O _ 
+ 2 O X * X * _ X X X _ 
+ 3 X O O O X X X X _ O 
+ 4 X O O O X X X X X _ 
+ 5 X O O O X X * X X X 
+ 6 X O O O X X O X O X 
+ 7 X O X X X X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 50, 'O' = 38
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 * * X X X _ O O O * 
+ 2 O X * X * * X X X _ 
+ 3 X O O O X X X X * O 
+ 4 X O O O X X X X X * 
+ 5 X O O O X X * X X X 
+ 6 X O O O X X O X O X 
+ 7 X O X X X X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 52, 'O' = 37
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 * * O X X * O O O _ 
+ 2 O X * O * * O X X _ 
+ 3 X O O O O X O X _ O 
+ 4 X O O O X O O X X _ 
+ 5 X O O O O O O X X X 
+ 6 X O O O X O O O O X 
+ 7 X O X X O X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 40, 'O' = 50
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 * * O X X * X O O * 
+ 2 O X * O * X X X X _ 
+ 3 X O O O X X X X * O 
+ 4 X O O X X O O X X * 
+ 5 X O X O O O O X X X 
+ 6 X X O O X O O O O X 
+ 7 X O X X O X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 48, 'O' = 43
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 O * O X X _ X O O * 
+ 2 O O * O * X X X X _ 
+ 3 X O O O X X X X _ O 
+ 4 X O O X X O O X X _ 
+ 5 X O X O O O O X X X 
+ 6 X X O O X O O O O X 
+ 7 X O X X O X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 47, 'O' = 45
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 O * X X X * X O O * 
+ 2 O O X O * X X X X _ 
+ 3 X X X X X X X X * O 
+ 4 X O X X X O O X X * 
+ 5 X O X O O O O X X X 
+ 6 X X O O X O O O O X 
+ 7 X O X X O X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 53, 'O' = 40
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 O * X X X _ X O O * 
+ 2 O O X O * X X X X * 
+ 3 X X X X X X X X * O 
+ 4 X O X X X O O O O O 
+ 5 X O X O O O O X O X 
+ 6 X X O O X O O O O X 
+ 7 X O X X O X X X O X 
+ 8 X O O O O O O X O X 
+ 9 X X O O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 50, 'O' = 44
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 O * X X X * X O O * 
+ 2 O O X O * X X X X _ 
+ 3 X X X X X X X X X O 
+ 4 X O X X X O O X X O 
+ 5 X O X O O O X X X X 
+ 6 X X O O X X O O X X 
+ 7 X O X X X X X X X X 
+ 8 X O O X O O O X X X 
+ 9 X X X O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 62, 'O' = 33
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 O O X X X _ X O O * 
+ 2 O O O O * X X X X * 
+ 3 X X X O X X X X X O 
+ 4 X O X X O O O X X O 
+ 5 X O X O O O X X X X 
+ 6 X X O O X X O O X X 
+ 7 X O X X X X X X X X 
+ 8 X O O X O O O X X X 
+ 9 X X X O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 59, 'O' = 37
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 O O X X X * X X X X 
+ 2 O O O O * X X X X _ 
+ 3 X X X O X X X X X O 
+ 4 X O X X O O O X X O 
+ 5 X O X O O O X X X X 
+ 6 X X O O X X O O X X 
+ 7 X O X X X X X X X X 
+ 8 X O O X O O O X X X 
+ 9 X X X O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 62, 'O' = 35
+
+
+X player's turn.
+
+   A B C D E F G H I J 
+ 1 O O O O O O X X X X 
+ 2 O O O O * O X X X * 
+ 3 X X X O X O X X X O 
+ 4 X O X X O O O X X O 
+ 5 X O X O O O X X X X 
+ 6 X X O O X X O O X X 
+ 7 X O X X X X X X X X 
+ 8 X O O X O O O X X X 
+ 9 X X X O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 57, 'O' = 41
+
+
+O player's turn.
+
+   A B C D E F G H I J 
+ 1 O O O O O O X X X X 
+ 2 O O O O * O X X X X 
+ 3 X X X O X O X X X X 
+ 4 X O X X O O O X X X 
+ 5 X O X O O O X X X X 
+ 6 X X O O X X O O X X 
+ 7 X O X X X X X X X X 
+ 8 X O O X O O O X X X 
+ 9 X X X O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 60, 'O' = 39
+_ player's turn.
+
+   A B C D E F G H I J 
+ 1 O O O O O O X X X X 
+ 2 O O O O O O X X X X 
+ 3 X X X O O O X X X X 
+ 4 X O X X O O O X X X 
+ 5 X O X O O O X X X X 
+ 6 X X O O X X O O X X 
+ 7 X O X X X X X X X X 
+ 8 X O O X O O O X X X 
+ 9 X X X O X O X X X X 
+10 X X O O O O O O X X 
+
+Score: 'X' = 59, 'O' = 41
+
+
+//////////////////////////////////////////////////////////////////
+
+Player 'X' win the game!
+
+/////////////////////////////////////////////////////////////////
+
+
+Thanks for playing, see you soon!

@@ -1,0 +1,155 @@
+Welcome to this reversi game!
+Black player (X) is random and white player (O) is random.
+Black player start!
+
+
+
+X player's turn.
+
+  A B C D 
+1 _ * _ _ 
+2 * O X _ 
+3 _ X O * 
+4 _ _ * _ 
+
+Score: 'X' = 2, 'O' = 2
+
+
+O player's turn.
+
+  A B C D 
+1 * _ * _ 
+2 X X X _ 
+3 * X O _ 
+4 _ _ _ _ 
+
+Score: 'X' = 4, 'O' = 1
+
+
+X player's turn.
+
+  A B C D 
+1 _ _ O * 
+2 X X O * 
+3 _ X O * 
+4 _ _ _ * 
+
+Score: 'X' = 3, 'O' = 3
+
+
+O player's turn.
+
+  A B C D 
+1 _ _ O _ 
+2 X X O _ 
+3 * X X X 
+4 * _ * _ 
+
+Score: 'X' = 5, 'O' = 2
+
+
+X player's turn.
+
+  A B C D 
+1 _ * O _ 
+2 O X O * 
+3 * O O X 
+4 _ * O * 
+
+Score: 'X' = 2, 'O' = 6
+
+
+O player's turn.
+
+  A B C D 
+1 _ _ O _ 
+2 O X O _ 
+3 X X X X 
+4 * _ O _ 
+
+Score: 'X' = 5, 'O' = 4
+
+
+X player's turn.
+
+  A B C D 
+1 _ * O _ 
+2 O X O * 
+3 O O X X 
+4 O * O _ 
+
+Score: 'X' = 3, 'O' = 7
+
+
+O player's turn.
+
+  A B C D 
+1 _ * X * 
+2 O X X X 
+3 O O X X 
+4 O _ O _ 
+
+Score: 'X' = 6, 'O' = 5
+
+
+X player's turn.
+
+  A B C D 
+1 _ * X O 
+2 O X O X 
+3 O O X X 
+4 O * O _ 
+
+Score: 'X' = 5, 'O' = 7
+
+
+O player's turn.
+
+  A B C D 
+1 _ * X O 
+2 O X O X 
+3 O X X X 
+4 O X O * 
+
+Score: 'X' = 7, 'O' = 6
+
+
+O player's turn.
+
+  A B C D 
+1 * * X O 
+2 O X O O 
+3 O X X O 
+4 O X O O 
+
+Score: 'X' = 5, 'O' = 9
+
+
+X player's turn.
+
+  A B C D 
+1 O * X O 
+2 O O O O 
+3 O X O O 
+4 O X O O 
+
+Score: 'X' = 3, 'O' = 12
+_ player's turn.
+
+  A B C D 
+1 X X X O 
+2 O X O O 
+3 O X O O 
+4 O X O O 
+
+Score: 'X' = 6, 'O' = 10
+
+
+//////////////////////////////////////////////////////////////////
+
+Player 'O' win the game!
+
+/////////////////////////////////////////////////////////////////
+
+
+Thanks for playing, see you soon!
